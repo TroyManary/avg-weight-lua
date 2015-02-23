@@ -1,3 +1,10 @@
+------------
+-- Average Weight Filter
+-- This file contains a lua class for an Average Weight Filter.
+-- @module avgWeight
+-- @author Troy Manary
+-- @copyright ExceleratedDesign 2015
+--
 local avgWeight = {}
 avgWeight.__index = avgWeight
 
